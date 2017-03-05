@@ -1,0 +1,94 @@
+﻿  LeapMotionExp.cpp
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.h(61): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码...
+  正在编译...
+  leapdata.cpp
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.h(61): warning C4305: “初始化”: 从“double”到“float”截断
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapdata.cpp(59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapdata.cpp(60): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapdata.cpp(67): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  LeapMotionExpDlg.cpp
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.h(61): warning C4305: “初始化”: 从“double”到“float”截断
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(73): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(74): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(108): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(109): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(182): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(183): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(192): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(241): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(254): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(256): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(258): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(341): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(342): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(348): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(363): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(367): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(381): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(385): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(408): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(456): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(457): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(466): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(515): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(528): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(530): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(532): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(615): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(616): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(622): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(637): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(641): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(655): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(659): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(682): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(877): warning C4244: “初始化”: 从“int”转换到“FLOAT”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(879): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(880): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(881): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(882): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(884): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(885): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(886): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(887): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(906): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(923): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(924): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(925): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(926): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(928): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(929): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(930): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(931): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(933): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(934): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(935): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(936): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(937): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(938): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(939): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(940): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(941): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(942): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(969): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(972): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(973): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(975): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(987): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(999): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(1000): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(1001): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(1002): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(1009): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(1017): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\心理学\心理课程文件\短学期\leapmotion项目\leap\formalexp\formaltest\leapmotionexp\leapmotionexpdlg.cpp(1024): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  LeapMotionExp.vcxproj -> E:\心理学\心理课程文件\短学期\leapmotion项目\leap\FormalExp\formaltest\Debug\LeapMotionExp.exe
+  LeapMotionExp.vcxproj -> E:\心理学\心理课程文件\短学期\leapmotion项目\leap\FormalExp\formaltest\Debug\LeapMotionExp.pdb (Partial PDB)
+  E:\心理学\心理课程文件\短学期\程序开发\Leap_Motion_SDK_Windows_2.3.1\LeapDeveloperKit_2.3.1+31549_win\LeapSDK\lib\x86\Leap.dll
+  复制了 1 个文件
+  E:\心理学\心理课程文件\短学期\程序开发\Leap_Motion_SDK_Windows_2.3.1\LeapDeveloperKit_2.3.1+31549_win\LeapSDK\lib\x86\msvcp120.dll
+  复制了 1 个文件
+  E:\心理学\心理课程文件\短学期\程序开发\Leap_Motion_SDK_Windows_2.3.1\LeapDeveloperKit_2.3.1+31549_win\LeapSDK\lib\x86\msvcr120.dll
+  复制了 1 个文件
