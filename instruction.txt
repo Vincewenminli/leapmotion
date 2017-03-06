@@ -1,4 +1,6 @@
-2017/3/1 20:31 
+2017/3/1 20:31
+
 1，画图算法已优化，双缓冲防止闪烁
 2，已删除修改一些附带文件，这些文件由visual studio自动生成
-3，下载后并非快于直接运行，请按开发白皮书（Leap Motion Development White Paper）先下载安装Leap_Motion_SDK_Windows，并进行环境配置，详细参考pdf
+3，下载后并非快于直接运行，请按开发白皮书（Leap_Motion_Development_White_Paper）先下载安装Leap_Motion_SDK_Windows，并进行环境配置，详细参考pdf
+4，关于leapmotion的使用方法可以参考LeapMotion_Tool_Instruction文档
